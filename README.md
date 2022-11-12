@@ -2,34 +2,7 @@
 <h6>Software Engineering Student at Islamic University of Technology(IUT)</h6>
 
 ✉️ azmayenfayek@iut-dhaka.edu
-
-<img align='right' src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width="250"> 
     
-### Little more about me..
-```javascript
-const me = {
-    interestAbout: [],
-    code: ["Javascript","Python", "Java", "C++"],
-    technologies: {
-       web
-         backEnd: {
-            js and ts: ["node", "express"]
-        },
-        frontEnd: {
-            js: ["React"],
-            css: ["bootstrap"]
-        },
-        devOps: [],
-        hosting: [],
-        database: ["mongo", "MySql", "firebase"],
-        testing: [],
-        Ai: [],
-        mobileApp: ["Android App"],
-        game: ["C++ SFML"],
-        misc: ["Firestore", "Web socket",]
-    }
-};
-```
 <br><br>
 
 <br>
