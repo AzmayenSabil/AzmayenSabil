@@ -51,7 +51,7 @@ const me = {
 <br>
   
 <summary><b>🏆 Achievements</b></summary>
-<p align="center"> <a href="https://github.com/AzmayenSabil"><img src="https://github-profile-trophy.vercel.app/?username=Azmayen-Sabil&margin-w=5&theme=radical" alt="AzmayenSabil" /></a> </p>
+<p align="center"> <a href="https://github.com/AzmayenSabil"><img src="https://github-profile-trophy.vercel.app/?username=AzmayenSabil&margin-w=5&theme=radical" alt="AzmayenSabil" /></a> </p>
 
 
 
