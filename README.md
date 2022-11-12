@@ -36,7 +36,7 @@ const me = {
     
 <summary><b>⚡ Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzmayenSabil&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="AzmayenSabil" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azmayen-Sabil&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="AzmayenSabil" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AzmayenSabil&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="AzmayenSabil" align = "center"/></p>
 
 <br>
     
