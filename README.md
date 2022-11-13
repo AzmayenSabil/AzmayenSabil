@@ -1,7 +1,8 @@
 <h2>I am <b>Azmayen Fayek Sabil<b></h2>
-<h6>Software Engineering Student at Islamic University of Technology(IUT)</h6>
+<h6>IUT CSE(SWE)</h6>
 
 ✉️ azmayenfayek@iut-dhaka.edu
+✉️ azmayensabil@gmail.com
     
 <br><br>
 
