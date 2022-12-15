@@ -8,7 +8,7 @@
 <br><br>
 
 <summary><b>🔎 Profile</b></summary>
-<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzmayenSabil&theme=github_dark" alt="AzmayenSabil" align = "center"/></p>
+<p align="center"><img width="400em" height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzmayenSabil&theme=github_dark" alt="AzmayenSabil" align = "center"/></p>
 
 <br>
     
