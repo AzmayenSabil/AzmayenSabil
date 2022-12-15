@@ -8,7 +8,7 @@
 <br><br>
 
 <summary><b>🔎 Profile</b></summary>
-<p align="center"><img width="400em" height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzmayenSabil&theme=github_dark" alt="AzmayenSabil" align = "center"/></p>
+<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzmayenSabil&theme=github_dark" alt="AzmayenSabil" align = "center"/></p>
 
 <br>
     
@@ -18,9 +18,9 @@
 
 <br>
     
-<summary><b>📊 Contribution Graph</b></summary>
+<!-- <summary><b>📊 Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AzmayenSabil&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-    
+     -->
 <br>
 
 <summary><b>🔥 Streaks</b></summary>
@@ -28,9 +28,9 @@
 
 <br>
   
-<summary><b>🏆 Achievements</b></summary>
+<!-- <summary><b>🏆 Achievements</b></summary>
 <p align="center"> <a href="https://github.com/AzmayenSabil"><img src="https://github-profile-trophy.vercel.app/?username=AzmayenSabil&margin-w=5&theme=radical" alt="AzmayenSabil" /></a> </p>
-
+ -->
 
 
 <!-- <p align="center"><img height="350em" src="https://metrics.lecoq.io/AzmayenSabil?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka" align = "center"/></p> -->
