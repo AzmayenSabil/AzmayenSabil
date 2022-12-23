@@ -1,38 +1,25 @@
-<h2>I am <b>Azmayen Fayek Sabil<b></h2>
-<h6>IUT CSE(SWE)</h6>
+- 👋 Hi, I’m @azmayensabil
 
-✉️ azmayenfayek@iut-dhaka.edu
-    <br>
-✉️ azmayensabil@gmail.com
-    
-<br><br>
-
-<summary><b>🔎 Profile</b></summary>
-<p align="center"><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzmayenSabil&theme=github_dark" alt="AzmayenSabil" align = "center"/></p>
-
-<br>
-    
-<summary><b>⚡ Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzmayenSabil&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="AzmayenSabil" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AzmayenSabil&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="AzmayenSabil" align = "center"/></p>
-
-<br>
-    
-<!-- <summary><b>📊 Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AzmayenSabil&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-     -->
-<br>
-
-<summary><b>🔥 Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AzmayenSabil&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="AzmayenSabil" /></p>
-
-<br>
-  
-<!-- <summary><b>🏆 Achievements</b></summary>
-<p align="center"> <a href="https://github.com/AzmayenSabil"><img src="https://github-profile-trophy.vercel.app/?username=AzmayenSabil&margin-w=5&theme=radical" alt="AzmayenSabil" /></a> </p>
- -->
+<a href="https://github.com/AzmayenSabil/github-profile-trophy">
+<h2>🏆 Github Profile Trophy</h2>
 
 
-<!-- <p align="center"><img height="350em" src="https://metrics.lecoq.io/AzmayenSabil?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka" align = "center"/></p> -->
-<!-- 
-![Metrics](https://metrics.lecoq.io/AzmayenSabil?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=AzmayenSabil&theme=gruvbox)](https://github.com/AzmayenSabil/github-profile-trophy)
+
+<div> 
+<img height="200" width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=AzmayenSabil&layout=compact&theme=radical&count_private=true&include_all_commits=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmayenSabil&layout=compact&theme=radical" /> 
+<p>
+<img height="200" width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AzmayenSabil&layout=compact&theme=radical" alt="AzmayenSabil" />
+</p> 
+</div> 
+
+# Visitor Count <div> <p align="left">  <img src="https://profile-counter.glitch.me/AzmayenSabil/count.svg" /> </p> </div>
+<!---
+AzmayenSabil/AzmayenSabil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!---
+
+
+- 📫 How to reach me azmayensabil@gmail.com
