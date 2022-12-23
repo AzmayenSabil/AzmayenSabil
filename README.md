@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AzmayenSabil&theme=gruvbox)](https://github.com/AzmayenSabil/github-profile-trophy)
 
 <div> 
-<img height="200" width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=AzmayenSabil&layout=compact&theme=radical&count_private=true&include_all_commits=true" /> 
+<!-- <img height="200" width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=AzmayenSabil&layout=compact&theme=radical&count_private=true&include_all_commits=true" />  -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmayenSabil&layout=compact&theme=radical" /> 
 <p>
 <img height="200" width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AzmayenSabil&layout=compact&theme=radical" alt="AzmayenSabil" />
