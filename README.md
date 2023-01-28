@@ -15,7 +15,6 @@
   
 </div> 
 <p></p>
-# Visitor Count <div> <p align="left">  <img src="https://profile-counter.glitch.me/AzmayenSabil/count.svg" /> </p> </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=errhythm&label=Profile%20views&color=0e75b6&style=flat-square" alt="AzmayenSabil" /> </p>
 
-
-- 📫 How to reach me azmayensabil@gmail.com
+<p align="left">- 📫 How to reach me azmayensabil@gmail.com</p>
