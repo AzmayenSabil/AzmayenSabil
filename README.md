@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @azmayensabil
+<h1 align="center">Hi 👋, I'm Azmayen Sabil</h1>
+<h3 align="center">A Sofware Engineering student from IUT</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AzmayenSabil&label=Profile%20views&color=0e75b6&style=flat-square" alt="AzmayenSabil" /> </p>
+
+- 📫 How to reach me **azmayensabil@gmail.com**
+
+<div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AzmayenSabil&label=Profile%20views&color=0e75b6&style=flat-square" alt="AzmayenSabil" /> </p>
+</div>
 
 <a href="https://github.com/AzmayenSabil/github-profile-trophy">
 <h2>🏆 Github Profile Trophy</h2>
@@ -15,10 +24,4 @@
   
 </div> 
 <p></p>
-<div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AzmayenSabil&label=Profile%20views&color=0e75b6&style=flat-square" alt="AzmayenSabil" /> </p>
-</div>
 
-<div>
-  <p align="left">- 📫 How to reach me azmayensabil@gmail.com</p>
-</div>
